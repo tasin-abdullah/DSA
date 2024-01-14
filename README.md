@@ -1,1 +1,1 @@
-# DSA
+This section includes the idea and implementation of different types of data structures (e.g : Linked List, Stack, Queues, Trees, Graphs, Hashing) which includes creation, insertion and deletion. Later on this section, you'll find the implementations of different sorting and searching teachniques, different problem solving paradigms like (greedy, DP, divide & conquer, complete search, backtracking, graph algorithms). 
